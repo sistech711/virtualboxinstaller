@@ -1,5 +1,5 @@
 # virtualboxinstaller
-WARNING: Only for Kali linux 2018.1
+WARNING: Every script is for different versions, Don't use any script with your OS version. It will not harm your computer but it will not work.
 Virtualbox installer coded by Salman Arif. Now a days people have problems installing and running virtualbox in kali linux. For this i have setup a script for it. It will automate all the process.
 Usage:
 vb.sh
