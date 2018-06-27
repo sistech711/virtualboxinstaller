@@ -56,8 +56,8 @@ if [[ $choice = "2" ]]; then
 	cd virtualboxinstaller
 	apt-cache search linux-headers
 	apt-cache search linux-image
-	wget http://old.kali.org/kali/pool/main/l/linux/linux-image-4.13.0-kali1-amd64_4.13.10-1kali2_amd64.deb
-	dpkg -i linux-image-4.13.0-kali1-amd64_4.13.10-1kali2_amd64.deb
+	wget http://old.kali.org/kali/pool/main/l/linux/linux-image-4.14.0-kali3-amd64_4.14.13-1kali1_amd64.deb
+	dpkg -i linux-image-4.14.0-kali3-amd64_4.14.13-1kali1_amd64.deb
 	apt-get install -y virtualbox
 	reboot
 
