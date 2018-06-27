@@ -10,3 +10,7 @@ Now Press 1 and hit enter for step 1.
 Your computer will reboot.
 After reboot open vb.sh again and press 2 for 2nd step.
 Your computer will again restart after this virtualbox will start work.
+
+------------
+Tested on Kali linux 2018.1
+If it not work then simple upgrade your kali machine and run latest verson one of these scripts.
